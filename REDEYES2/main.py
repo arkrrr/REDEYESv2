@@ -44,7 +44,6 @@ def banner():
   print ("\n")
   print (bcolors.MERAH,50*"-")
   print (bcolors.UNGU," # Di buat oleh arkrrr")
-  print (bcolors.HIJAU," #Yang merasa kurang sama script ini tenang aja nanti akan di update^_^")
   print (bcolors.KUNING,"hubungi saya di: arkrrr755@gmail.com")
   print (bcolors.ENDC," ")
 
