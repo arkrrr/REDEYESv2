@@ -11,7 +11,7 @@ class bcolors:
     UNDERLINE = '\033[4m'
 
 def banner():
-    print ("TOOLS BUAT PARA SCRIPT KIDDIE")
+    print ("TOOLS BUAT PARA HEKER")
     print (bcolors.MERAH,"""
 
 .::!!!!!!!:.
